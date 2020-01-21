@@ -1,0 +1,2 @@
+# GitHub-scenarij
+VREDNOVANJE KVALITETE GITHUB-a
